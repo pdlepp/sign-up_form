@@ -1,0 +1,68 @@
+#imageSplash{
+    height: 490px;
+    width: 350px;
+    margin-top: -10px;
+    margin-left: -10px;
+    background-image: url(image/tyler-quiring-T5Ye7puWZxo-unsplash.jpg);
+    background-position: 80% 25%;
+    background-size: 250% 100%;
+}
+
+#titleHeading{
+    margin-top: 200px;
+    width:100%;
+    background-color: rgba(0, 0, 0, 0.7);
+    text-align: center;
+}
+
+#title{
+    color:blueviolet;
+}
+
+#credit{
+    margin-top: 85%;
+}
+
+#description{
+    margin: 10%;
+    width: 80%;
+}
+
+#signupPage{
+    max-width: 75%;
+    background-color: purple;
+    margin-top: -10px;
+    margin-right: -10px;
+}
+
+#signupForm{
+    margin-top: 10%;
+    margin-bottom: 10%;
+    display: flex;
+    flex-flow: row wrap;
+    row-gap: 10px;
+    column-gap: 20px;
+}
+
+.input{
+    display: flex;
+    flex-flow: column wrap;
+    width: 30%;
+    margin-left: 5%;
+    margin-right: 5%;
+}
+
+#createAccountBtn{
+    margin-left: 40%;
+    margin-bottom: 5%;
+    color: white;
+    background-color: black;
+    border-radius: 5%;
+    border-color: black;
+}
+
+#website{
+    display: flex;
+    
+}
+
